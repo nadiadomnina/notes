@@ -1,0 +1,50 @@
+# **notes 9/30/19**
+
+## Tools: Managing and Documenting Code
+
+
+
+**BASIC COMMANDS**
+
+- s = list
+
+- ls -las = list with more info
+
+- mkdir =make folder
+
+- rmdir=remove folder
+
+- cp  filename targetpath = copy file from source to target
+
+- less filename.txt = displays the file
+
+- open filename = opens the file
+
+- say "hello" = will say hello
+
+**ABSOLUTE vs. RELATIVE PATHS**
+
+- cd~/Documents" = goes to the home directory which is
+ /Users/nadiadomnina and then to /Documents
+
+- cd/ = takes to the very top of the directory aka the root
+
+**VERSION CONTROL**
+
+what is it?
+-  a system that documents and **_tracks changes_** to all files, including current projects so you are able to reverse, add,
+and collaborate
+- allows you to not save the same files with a bunch of different names and instead stores the changes
+- **_share code_**
+- **_go between versions_**
+- **_work seperately and merge together into one_**
+
+repository on computer and gitHub
+ - version control system
+ - each time you make progress take a snapshot into the repository
+
+ process of using gitHub
+ - git init
+ - git add
+ - git commit -m "comment here"
+ -
